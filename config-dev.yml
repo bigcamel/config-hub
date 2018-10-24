@@ -2,7 +2,7 @@ server:
     port: 8080
 user:
     name: test
-    age: a2
+    age: a2adsads
     desc: good
     mail: hill1@5s3wang.com
 nick: ok
